@@ -2,6 +2,15 @@
 
 Ferramenta CLI em Python voltada para a rotina de **Suporte Técnico / Help Desk N1**, automatizando a limpeza preventiva de diretórios temporários seguros em estações Windows, medindo o espaço em disco antes e depois da execução e gerando um relatório técnico para registro e encerramento de chamados.
 
+## Vídeo Explicativo 
+
+
+
+https://github.com/user-attachments/assets/df4027ed-e38b-4208-a54b-c00d2fcf09a1
+
+
+
+
 ## Problema Resolvido
 
 Na rotina de atendimento N1, chamados relacionados a lentidão ou falta de espaço em disco costumam exigir verificações repetitivas e limpeza manual de arquivos temporários em estações de trabalho. Este script padroniza a execução e gera evidência objetiva do atendimento em segundos.
